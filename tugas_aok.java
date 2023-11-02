@@ -1,7 +1,7 @@
 package AOK;
 //Andika Saktidana Hernadi - 235150207111029   
 //Referensi : https://www.javatpoint.com 
-//dibantu dengan chatGpt untuk proses perhitungan logika
+//dibantu dengan chatGpt untuk proses perhitungan pengubahan bilangan
 import java.util.Scanner;
 public class tugas_aok {
     public static void main(String[] args) {
